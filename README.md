@@ -72,7 +72,7 @@ This project uses Ruff for linting and code quality checks. To run Ruff, follow 
 
 **Automatically fix issues with Ruff:**
 
-    ruff fix .
+    ruff format .
 
 **Run Mypy to check your code:**
     
@@ -80,6 +80,6 @@ This project uses Ruff for linting and code quality checks. To run Ruff, follow 
 
 ## Testing
 
-** Run testing command: **
+**Run testing command:**
     
     pytest
